@@ -1,2 +1,2 @@
-# Zomato_API_Project
-By Collecting the data using Zomato API one can recommend restaurants on the basis of user’s affinity to specific cuisines, establishment types, locations, and price bands. We can find out whether restaurant support online reservation or not. We can find what is the most popular and/ or exclusive/new at a given location &amp; time.
+# Instagram bot using selenium
+This code logs into Instagram, searches for the "mealprep" tag, and extracts the number of likes and comments from posts. It then creates a line plot to visualize the likes and comments for each post. Please note that Instagram's structure may change, and this code is a simplified example for demonstration purposes. You may need to adapt the CSS selectors and logic to match the current Instagram structure and requirements. Additionally, always comply with Instagram's terms of service when scraping data.
